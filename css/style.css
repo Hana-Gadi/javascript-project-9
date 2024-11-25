@@ -1,0 +1,14 @@
+
+body{
+    background-color: antiquewhite;
+}
+
+
+ .bottom-border{
+    border-bottom: 2px dotted ;
+ }
+
+ /* input:focus{
+    border: orange 1px solid;
+    box-shadow: 2px 2px 20px rgb(215, 160, 58);
+ } */
